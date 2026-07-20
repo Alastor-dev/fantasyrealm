@@ -3,15 +3,15 @@ Presentation du projet :
  PixelVerse Studios souhaite améliorer l'expérience de personnalisation des avatars dans FantasyRealm Online.
  Faute de temps j'ai développé les pages accueil,menu,connexion,inscription, mot de passe oublié,contact,page personnages,mentions légales / CGV.
 Fonctionnalité :
- - Accueil
- - Menu
- - Connexion
- - Inscription
- - Mot de passe oublié
- - Contact
- -Page personnages
- - Mentions légales
- - CGV
+  - Accueil
+  - Menu
+  - Connexion
+  - Inscription
+  - Mot de passe oublié
+  - Contact
+  -Page personnages
+  - Mentions légales
+  - CGV
 Fonctionalit non réaliser :
   - Espace utilisateur
   - Création de personnage
@@ -29,6 +29,31 @@ Instalation local
 
 Structure des fichier :
 wamp64/
-www/fanstasyrealm/
-asset/css/
+www/
+fanstasyrealm/
+asset/
+  css/
+   index.css
+   inscription.css
+   personnages.css
+  evaluationECF/
+   imageECF
+   Maquette
+   wireframe
+   document-ecf
+   enonceECF
+   js/
+    script.js
+ .git/
+ index.html
+ contact.html
+ connexion.html
+ inscription.html
+ mot-de-passe-oublie.html
+ personnages.html
+ mentions-legales.html
+ cgv.html
+ confidentialite.html
+ README.md
+
 
